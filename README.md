@@ -6,7 +6,7 @@ Bem-vindo ao Jogo de Adivinhação de Número Aleatório! Este é um jogo simple
 1. [Objetivo](#objetivo)
 2. [Funcionalidades](#funcionalidades)
 3. [Conhecimentos Aplicados](#conhecimentos-aplicados)
-4. [Como Jogar](#como-jogar
+4. [Como Jogar](#como-jogar)
 
 ## Objetivo
 O objetivo deste jogo é adivinhar o número secreto escolhido pelo computador. Você tem que escolher um número entre 1 e 10 e ver se consegue acertar. A cada tentativa, o jogo vai te dizer se o número secreto é maior ou menor que o seu chute.
